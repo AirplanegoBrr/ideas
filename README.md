@@ -8,3 +8,5 @@ We all know discord has discord.com/app but what if you wanted to host your own 
 
 
 This could be used to bypass school and work filters. Or maybe your conty doesnt like discord!
+
+This would use a discord BOT to handle every thing (if it was using your discord account it would be a self bot)
